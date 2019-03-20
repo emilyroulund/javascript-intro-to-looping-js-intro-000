@@ -16,6 +16,3 @@ function whileLoop(n){
 function doWhileLoop(num){
   
 }
-
- array = [element, ...array];
-  return array
