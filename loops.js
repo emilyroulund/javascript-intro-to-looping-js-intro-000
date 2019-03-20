@@ -9,13 +9,13 @@ function forLoop(array) {
   return array;
 }
 
-function whileLoop(n){
-  let countdown = n; 
-  while (countdown > 0){
-    return (--countdown);
+function whileLoop(n) {
+  let countdown = n;
+    while (countdown > 0) {
+      console.log(--countdown)
+    }
+    return "done";
   }
-  return 'done'
-}
 
 function doWhileLoop(num){
   
